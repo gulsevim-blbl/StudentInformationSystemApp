@@ -1,0 +1,15 @@
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\bin\Debug\net8.0\StudentInformationSystemApp.exe
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\bin\Debug\net8.0\StudentInformationSystemApp.deps.json
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\bin\Debug\net8.0\StudentInformationSystemApp.runtimeconfig.json
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\bin\Debug\net8.0\StudentInformationSystemApp.dll
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\bin\Debug\net8.0\StudentInformationSystemApp.pdb
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\StudentInformationSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\StudentInformationSystemApp.AssemblyInfoInputs.cache
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\StudentInformationSystemApp.AssemblyInfo.cs
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\StudentInformationSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\StudentInformationSystemApp.sourcelink.json
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\StudentInformationSystemApp.dll
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\refint\StudentInformationSystemApp.dll
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\StudentInformationSystemApp.pdb
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\StudentInformationSystemApp.genruntimeconfig.cache
+C:\Users\gulse\OneDrive\Masaüstü\EnesBayramC#Kursu\StudentInformationSystemApp\obj\Debug\net8.0\ref\StudentInformationSystemApp.dll
